@@ -1,4 +1,4 @@
-# Vecka 1 — Variabler, villkor, logik
+# Vecka 37 — Variabler, villkor, logik
 
 > **📖 Hur du använder detta material:** Detta GitHub-repo är din digitala kursbok. Du behöver inte klona repot för att läsa — klicka på länkarna i webbläsaren. Följ körschemat pass för pass.
 
@@ -45,7 +45,7 @@ Mapp: [03-villkor-logik](./03-villkor-logik/)
 
 ---
 
-## 🎯 Veckans checklista (klar inför vecka 2?)
+## 🎯 Veckans checklista (klar inför vecka 38?)
 
 När veckan är slut ska du ha bockat av:
 
@@ -60,4 +60,4 @@ När veckan är slut ska du ha bockat av:
 
 ## 🏁 Nästa steg
 
-Vecka 2 publiceras som [vecka-02/](../vecka-02/) — loopar, metoder och listor.
+Vecka 38 publiceras som [vecka-38/](../vecka-38/) — loopar, metoder och listor.
