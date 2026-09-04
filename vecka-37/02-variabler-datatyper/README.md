@@ -2,8 +2,7 @@
 
 > **📖 Hur du använder materialet:** Detta GitHub-repo fungerar som din digitala kursbok. Du behöver inte klona något för att läsa — klicka på länkarna i webbläsaren.
 
-**Den här mappen täcker:** Variabler, tilldelning och de fyra datatyperna (`int`, `double`, `String`, `boolean`) — **vecka 1, pass 2**.  
-Pass i samma kalendervecka utan filer här får en rad i körschemat (*publiceras i nästa del*).
+**Den här mappen täcker:** Variabler, tilldelning och de fyra datatyperna (`int`, `double`, `String`, `boolean`) — **onsdag 9/9**.
 
 **Omfång:** Deklaration, tilldelning, `System.out.println`. Bara `main`. Ingen `if`, ingen loop, ingen `Scanner`, inga egna metoder.
 
@@ -13,9 +12,9 @@ Pass i samma kalendervecka utan filer här får en rad i körschemat (*publicera
 
 | Dag / Tillfälle | Före passet (Förberedelse) | Live i Teams | Efter passet (Eget arbete) |
 | :--- | :--- | :--- | :--- |
-| **Vecka 1, pass 1 — Datalogiskt tänkande + JDK/IDE** | Inget att läsa (kursstart). Ha IDE + JDK installerat. | Data, handlingar, ordning + första körningen | [01-datalogiskt-ide](../01-datalogiskt-ide/) |
-| **Vecka 1, pass 2 — Variabler och datatyper** | Max ~15 min: läs [01 — Teoriguide](./01-teoriguide.md) (variabler + datatyper) | Deklaration, tilldelning, fyra typer, utskrift | Välj ditt spår nedan (~3–5 h) |
-| **Vecka 1, pass 3 — Villkor och logik** | *Publiceras i nästa del* | *Publiceras i nästa del* | *Publiceras i nästa del* |
+| **Tisdag 8/9 — Datalogiskt tänkande + JDK/IDE** | Inget att läsa (kursstart). Ha GitHub + IDE + JDK 21. | Data, handlingar, ordning + första körningen | [01-datalogiskt-ide](../01-datalogiskt-ide/) |
+| **Onsdag 9/9 — Variabler och datatyper** | Max ~15 min: läs [01 — Teoriguide](./01-teoriguide.md) (variabler + datatyper) | Deklaration, tilldelning, fyra typer, utskrift | Välj ditt spår nedan (~3–5 h) |
+| **Fredag 11/9 — Villkor och logik** | Max ~15 min: [03:s teoriguide](../03-villkor-logik/01-teoriguide.md) | if/else, jämförelser, logik | [03-villkor-logik](../03-villkor-logik/) |
 
 ---
 

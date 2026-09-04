@@ -2,7 +2,7 @@
 
 > **📖 Hur du använder materialet:** Detta GitHub-repo fungerar som din digitala kursbok. Du behöver inte klona något för att läsa — klicka på länkarna i webbläsaren.
 
-**Den här mappen täcker:** v1 T3 — `if` / `else` / `else if`, jämförelser (`>`, `<`, `==`, `!=`, `>=`, `<=`), logiska operatorer (`&&`, `||`, `!`), död gren och `=` vs `==`.  
+**Den här mappen täcker:** Fredag 11/9 — `if` / `else` / `else if`, jämförelser (`>`, `<`, `==`, `!=`, `>=`, `<=`), logiska operatorer (`&&`, `||`, `!`), död gren och `=` vs `==`.  
 Värden hårdkodas i `main` — ingen loop, ingen `Scanner`, inga egna metoder utöver `main`.
 
 ---
@@ -11,9 +11,9 @@ Värden hårdkodas i `main` — ingen loop, ingen `Scanner`, inga egna metoder u
 
 | Dag / Tillfälle | Före passet (Förberedelse) | Live i Teams | Efter passet (Eget arbete) |
 | :--- | :--- | :--- | :--- |
-| **Pass 1 — Datalogiskt tänkande + JDK/IDE** | Inget att läsa i förväg (kursstart) | Sekvens, IDE, första körning | [01-datalogiskt-ide](../01-datalogiskt-ide/) |
-| **Pass 2 — Variabler och datatyper** | Skumma variabler i [02:s 01](../02-variabler-datatyper/01-teoriguide.md) (~15 min) | Burkar, typer, utskrift | [02-variabler-datatyper](../02-variabler-datatyper/) |
-| **Pass 3 — Villkor och logik (denna mapp)** | Skumma villkor i [01-teoriguide](./01-teoriguide.md) (~15 min) | Grenar, jämförelser, `&&` \|\| `!` | Välj ditt spår nedan (~3–5 h) |
+| **Tisdag 8/9 — Datalogiskt tänkande + JDK/IDE** | Inget att läsa i förväg (kursstart) | Sekvens, IDE, första körning | [01-datalogiskt-ide](../01-datalogiskt-ide/) |
+| **Onsdag 9/9 — Variabler och datatyper** | Skumma variabler i [02:s 01](../02-variabler-datatyper/01-teoriguide.md) (~15 min) | Burkar, typer, utskrift | [02-variabler-datatyper](../02-variabler-datatyper/) |
+| **Fredag 11/9 — Villkor och logik (denna mapp)** | Skumma villkor i [01-teoriguide](./01-teoriguide.md) (~15 min) | Grenar, jämförelser, `&&` \|\| `!` | Välj ditt spår nedan (~3–5 h) |
 
 ---
 

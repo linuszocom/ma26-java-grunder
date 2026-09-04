@@ -2,18 +2,18 @@
 
 > **📖 Hur du använder materialet:** Detta GitHub-repo fungerar som din digitala kursbok. Du behöver inte klona något för att läsa — klicka på länkarna i webbläsaren.
 
-**Den här mappen täcker:** Pass 1 (pedagogisk vecka 1) — datalogiskt tänkande, JDK, IDE och första konsolprogrammet.  
-Pass 2 och Pass 3 i samma pedagogiska vecka har egna mappar — se körschemat nedan.
+**Den här mappen täcker:** Tisdag 8/9 — datalogiskt tänkande, JDK, IDE och första konsolprogrammet.  
+Onsdag och fredag i samma kalendervecka har egna mappar — se körschemat nedan.
 
 ---
 
-## 🗺️ Körschema (pedagogisk vecka 1)
+## 🗺️ Körschema (vecka 37)
 
-| Pass | Före passet (Förberedelse) | Live i Teams | Efter passet (Eget arbete) |
+| Dag / Tillfälle | Före passet (Förberedelse) | Live i Teams | Efter passet (Eget arbete) |
 | :--- | :--- | :--- | :--- |
-| **Pass 1 — Datalogiskt tänkande + JDK/IDE** | Inget att läsa. Ha **JDK** och **IDE** (IntelliJ eller VS Code) installerat. | Data, ordning, JDK, IDE, konsol | Välj ditt spår nedan (~3–5 h) |
-| **Pass 2 — Variabler och datatyper** | *Publiceras i nästa del* | Variabler, datatyper, utskrift | *Publiceras i nästa del* → `02-variabler-datatyper/` |
-| **Pass 3 — Villkor och logik** | *Publiceras i nästa del* | if/else, jämförelser, logik | *Publiceras i nästa del* → `03-villkor-logik/` |
+| **Tisdag 8/9 — Datalogiskt tänkande + JDK/IDE** | Inget att läsa. Ha **GitHub-konto**, **JDK 21** och **IDE** (IntelliJ eller VS Code). | Data, ordning, JDK, IDE, konsol | Välj ditt spår nedan (~3–5 h) |
+| **Onsdag 9/9 — Variabler och datatyper** | Max ~15 min: [02:s teoriguide](../02-variabler-datatyper/01-teoriguide.md) | Variabler, datatyper, utskrift | [02-variabler-datatyper](../02-variabler-datatyper/) |
+| **Fredag 11/9 — Villkor och logik** | Max ~15 min: [03:s teoriguide](../03-villkor-logik/01-teoriguide.md) | if/else, jämförelser, logik | [03-villkor-logik](../03-villkor-logik/) |
 
 ---
 

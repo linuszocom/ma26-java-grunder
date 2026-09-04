@@ -37,8 +37,8 @@ Varje ämne innehåller fem filer med samma fasta roller:
 
 ## ⏰ Veckorytm
 
-- **Måndag, onsdag, fredag (13:00–16:00):** Lektion live i Teams.
-- **Tisdag, torsdag:** Heltid för eget arbete, övningar, AI-granskning och repetition.
+- **Tisdag, onsdag, fredag (13:00–16:00):** Lektion live i Teams.
+- **Måndag, torsdag:** Heltid för eget arbete, övningar, AI-granskning och repetition.
 - **Starta alltid i veckomappen:** Öppna aktuell veckomapp (t.ex. `vecka-37/`) och följ veckans egen README för detaljerat schema.
 
 ---
