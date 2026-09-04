@@ -1,67 +1,71 @@
-# Java grunder — MA26
+# 📖 Java grunder (45 YH-poäng)
 
-Moodle länkar till **veckomappen** för den aktuella kalenderveckan. Där inne: passens mappar med körschema (före / live / efter) och tre spår.
+Välkommen till kursen! Detta GitHub-repository är din **digitala kursbok**.
 
-> **📖 Hur du använder materialet:** Detta GitHub-repo fungerar som din digitala kursbok. Du behöver inte klona något för att läsa — klicka på länkarna i webbläsaren.
+---
 
-## Så använder du materialet
+## 🛑 Klona inte detta repo
 
-| Situation | Gör |
-|-----------|-----|
-| **Var på passet** | Efteråt: **03 övningar → AI → självtest** i **den mapp passet hör till**. Teoriguiden bara där du är osäker. |
-| **Missade passet / från noll** | Hela passmappen i nummerordning (**01 → 05**). |
-| **Kort om tid** | Teoriguiden + självtestets frågor (utan facit först). |
+Du behöver **inte** klona, ladda ner eller forka detta repository.
 
-## Kurskarta
+- **Läs här:** Klicka på mapparna och filerna direkt i webbläsaren.
+- **Koda lokalt:** Skapa egna projekt i din IDE (IntelliJ eller VS Code) när du gör övningarna. Du versionshanterar din egen kod i dina egna repon.
 
-### [Vecka 37](./vecka-37/) — 7–11/9
-| Mapp | Pass |
-|------|------|
-| [01-datalogiskt-ide](./vecka-37/01-datalogiskt-ide/) | Pass 1 — datalogiskt tänkande + JDK/IDE |
-| [02-variabler-datatyper](./vecka-37/02-variabler-datatyper/) | Pass 2 — variabler och datatyper |
-| [03-villkor-logik](./vecka-37/03-villkor-logik/) | Pass 3 — villkor och logik |
+---
 
-### [Vecka 38](./vecka-38/) — 14–18/9
-| Mapp | Pass |
-|------|------|
-| [04-loopar-meny](./vecka-38/04-loopar-meny/) | Pass 1 — loopar och meny-val |
-| [05-metoder](./vecka-38/05-metoder/) | Pass 2 — metoder |
-| [06-arraylist-scanner](./vecka-38/06-arraylist-scanner/) | Pass 3 — array, ArrayList, Scanner |
+## 🗺️ Hur materialet är uppbyggt (`01`–`05`)
 
-### [Vecka 39](./vecka-39/) — 21–25/9
-| Mapp | Pass |
-|------|------|
-| [07-git-github](./vecka-39/07-git-github/) | Pass 1 — Git & GitHub (eget repo) |
-| [08-klasser-objekt](./vecka-39/08-klasser-objekt/) | Pass 2 — klass och objekt (`Account`) |
-| [09-transaktioner](./vecka-39/09-transaktioner/) | Pass 3 — deposit / withdraw |
+Varje ämne innehåller fem filer med samma fasta roller:
 
-### [Vecka 40](./vecka-40/) — 28/9–2/10
-| Mapp | Pass |
-|------|------|
-| [10-inkapsling](./vecka-40/10-inkapsling/) | Pass 1 — inkapsling, konstruktor, lista |
-| [11-factory-lista](./vecka-40/11-factory-lista/) | Pass 2 — factory, sök, meny |
-| [12-arv-exam1-start](./vecka-40/12-arv-exam1-start/) | Pass 3 — arv (VG), README, Exam 1-start |
+| Fil | Roll | Vad du gör |
+| --- | --- | --- |
+| **01-teoriguide.md** | **Lärobok** | Förklarar principer, metaforer och *målsvar* inför examination. |
+| **02-visuell.md** | **Diagram** | Mentala modeller, flöden och strukturkartor. |
+| **03-ovningar.md** | **Övningar** | Praktisk kodning från grunden med tydliga *Klart-checkar*. |
+| **04-ai-traning.md** | **AI-granskning** | Hitta svagheter i AI-kod och anpassa koden så att du äger den. |
+| **05-sjalvtest.md** | **Självtest** | Korta frågor med dolda facit under klickbara flikar. |
 
-### [Vecka 41](./vecka-41/) — Exam 1 (5–9/10)
-| Mapp | Pass |
-|------|------|
-| [13-exam-1](./vecka-41/13-exam-1/) | Handledning — färdigställ + inlämning + muntlig/video samma vecka |
+---
 
-### [Vecka 42](./vecka-42/) — 12–16/10
-| Mapp | Pass |
-|------|------|
-| [14-git-team](./vecka-42/14-git-team/) | Pass 1 — gemensamt repo, pull före push |
-| [15-tre-klasser](./vecka-42/15-tre-klasser/) | Pass 2 — Medlem / Register / Main |
-| [16-merge-konflikt](./vecka-42/16-merge-konflikt/) | Pass 3 — merge/konflikt på grundnivå |
+## 🎯 Välj ditt spår
 
-### [Vecka 43](./vecka-43/) — 19–23/10
-| Mapp | Pass |
-|------|------|
-| [17-lista-register](./vecka-43/17-lista-register/) | Pass 1 — lista i Register |
-| [18-sok-meny](./vecka-43/18-sok-meny/) | Pass 2 — sök + meny |
-| [19-exam2-start](./vecka-43/19-exam2-start/) | Pass 3 — README + Exam 2-start |
+- 🟢 **Var med på passet:** Gör **`03`** (övningar) och stäm av med **`05`** (självtest). Använd `01` bara om du kör fast. (`04` görs på självstudiedagar.)
+- 🟡 **Missade passet / Sjuk:** Gör hela kedjan i nummerordning: **`01` → `02` → `03` → `04` → `05`**.
+- 🟣 **Stretch:** Gör de frivilliga fördjupningsuppgifterna märkta *Stretch* i `03-ovningar.md`.
 
-### [Vecka 44](./vecka-44/) — Exam 2 (26–30/10)
-| Mapp | Pass |
-|------|------|
-| [20-exam-2](./vecka-44/20-exam-2/) | Handledning — färdigställ + gruppens GitHub-länk i Moodle denna vecka |
+---
+
+## ⏰ Veckorytm
+
+- **Måndag, onsdag, fredag (13:00–16:00):** Lektion live i Teams.
+- **Tisdag, torsdag:** Heltid för eget arbete, övningar, AI-granskning och repetition.
+- **Starta alltid i veckomappen:** Öppna aktuell veckomapp (t.ex. `vecka-37/`) och följ veckans egen README för detaljerat schema.
+
+---
+
+## 🗺️ Kurskarta
+
+Mapparna publiceras löpande inför varje ny vecka.
+
+### Block 1 — Java-grunder & Examination 1 (Kontoappen)
+
+- **[Vecka 37](./vecka-37/)** — Variabler, villkor, logik (datalogiskt tänkande, JDK/IDE, `if`)
+- **Vecka 38** — Loopar, metoder, listor _(publiceras inför veckan)_
+- **Vecka 39** — Git + klasser och objekt (`Account`)
+- **Vecka 40** — OOP, factory, arv (VG), start Exam 1
+- **Vecka 41** — Handledning & Examination 1 (Kontoappen) — kod + muntlig/video samma vecka
+
+### Block 2 — Git i team & Examination 2 (Medlemsregistret)
+
+- **Vecka 42** — Gemensamt repo, tre klasser, merge
+- **Vecka 43** — Register, sök, start Exam 2
+- **Vecka 44** — Handledning & Examination 2 (Medlemsregistret) — gruppens GitHub-länk i Moodle
+
+---
+
+## 🤖 AI och kodägarskap
+
+AI-verktyg är tillåtna som hjälplärare och bollplank under dina studier.
+
+- **Fullt ägarskap:** Du ska förstå varje rad du lämnar in. Examination 1 redovisas **muntligt i IDE:n** (live eller video).
+- **Stanna upp och lär:** Klistra inte in kod blint. Fråga AI *varför* den valde en viss lösning tills du förstår principen själv.
