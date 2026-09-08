@@ -21,8 +21,8 @@ Klona inte det här repot. Skapa inget eget kursrepo. Installera inte Git ännu.
 ### 🔵 Tisdag 8/9 — Datalogiskt tänkande & Java-verktyg
 Mapp: [01-datalogiskt-ide](./01-datalogiskt-ide/)
 
-* **Före kl 13:00 (Förberedelse):** Inget att läsa. Ha **GitHub-konto**, **JDK 21** och **IDE** (IntelliJ eller VS Code) klart.
-* **Kl 13:00–16:00 (Live i Teams):** Data, handlingar, ordning + JDK, IDE, konsol + första körningen.
+* **Före (Förberedelse):** Inget att läsa. Ha **GitHub-konto**, **JDK 21** och **IDE** (IntelliJ eller VS Code) klart.
+* **Kl 9:00-12:00 (Live i Teams):** Data, handlingar, ordning + JDK, IDE, konsol + första körningen.
 * **Efter lektionen (Välj din väg):**
 
 > 🟢 **Du var med på passet:** Gå direkt på [03 — Övningar](./01-datalogiskt-ide/03-ovningar.md) och stäm av med [05 — Självtest](./01-datalogiskt-ide/05-sjalvtest.md). [01 — Teoriguide](./01-datalogiskt-ide/01-teoriguide.md) är uppslagsverk om du kör fast.
@@ -34,8 +34,8 @@ Mapp: [01-datalogiskt-ide](./01-datalogiskt-ide/)
 ### 🔵 Onsdag 9/9 — Variabler och datatyper
 Mapp: [02-variabler-datatyper](./02-variabler-datatyper/)
 
-* **Före kl 13:00 (Förberedelse):** Max ~15 min — läs [01 — Teoriguide](./02-variabler-datatyper/01-teoriguide.md) (variabler + datatyper).
-* **Kl 13:00–16:00 (Live i Teams):** Deklaration, tilldelning, `int` / `double` / `String` / `boolean`, utskrift.
+* **Före lektion (Förberedelse):** Max ~15 min — läs [01 — Teoriguide](./02-variabler-datatyper/01-teoriguide.md) (variabler + datatyper).
+* **Kl 9:00-12:00 (Live i Teams):** Deklaration, tilldelning, `int` / `double` / `String` / `boolean`, utskrift.
 * **Efter lektionen (Välj din väg):**
 
 > 🟢 **Du var med på passet:** [03 — Övningar](./02-variabler-datatyper/03-ovningar.md) → [05 — Självtest](./02-variabler-datatyper/05-sjalvtest.md). [01 — Teoriguide](./02-variabler-datatyper/01-teoriguide.md) är uppslagsverk om du kör fast.
@@ -57,8 +57,8 @@ Mapp: [02-variabler-datatyper](./02-variabler-datatyper/)
 ### 🔵 Fredag 11/9 — Villkor och logik
 Mapp: [03-villkor-logik](./03-villkor-logik/)
 
-* **Före kl 13:00 (Förberedelse):** Max ~15 min — läs [01 — Teoriguide](./03-villkor-logik/01-teoriguide.md) (villkor och logik).
-* **Kl 13:00–16:00 (Live i Teams):** `if` / `else` / `else if`, jämförelser, `&&` / `||` / `!`.
+* **Före (Förberedelse):** Max ~15 min — läs [01 — Teoriguide](./03-villkor-logik/01-teoriguide.md) (villkor och logik).
+* **Kl 9:00-12:00 (Live i Teams):** `if` / `else` / `else if`, jämförelser, `&&` / `||` / `!`.
 * **Efter lektionen / Helgens mål:**
 
 > 🟢 **Du var med på passet:** [03 — Övningar](./03-villkor-logik/03-ovningar.md) → [05 — Självtest](./03-villkor-logik/05-sjalvtest.md). [01 — Teoriguide](./03-villkor-logik/01-teoriguide.md) är uppslagsverk om du kör fast.
