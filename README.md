@@ -50,8 +50,8 @@ Mapparna publiceras löpande inför varje ny vecka.
 ### Block 1 — Java-grunder & Examination 1 (Kontoappen)
 
 - **[Vecka 37](./vecka-37/)** — Variabler, villkor, logik (datalogiskt tänkande, JDK/IDE, `if`)
-- **Vecka 38** — Loopar, metoder, listor _(publiceras inför veckan)_
-- **Vecka 39** — Git + klasser och objekt (`Account`)
+- **[Vecka 38](./vecka-38/)** — Loopar, metoder, listor (`while`/`for`, metoder, ArrayList, Scanner)
+- **Vecka 39** — Git + klasser och objekt (`Account`) _(publiceras inför veckan)_
 - **Vecka 40** — OOP, factory, arv (VG), start Exam 1
 - **Vecka 41** — Handledning & Examination 1 (Kontoappen) — kod + muntlig/video samma vecka
 
