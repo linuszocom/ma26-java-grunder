@@ -62,4 +62,4 @@ Mapp: [06-arraylist-scanner](./06-arraylist-scanner/)
 
 ## 🏁 Nästa steg
 
-Vecka 39 publiceras som [vecka-39/](../vecka-39/) — Git, klasser och objekt (`Account`).
+Fortsätt i [vecka-39/](../vecka-39/) — Git, klasser och objekt (`Account`).
