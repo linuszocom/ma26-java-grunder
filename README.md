@@ -52,7 +52,7 @@ Mapparna publiceras löpande inför varje ny vecka.
 - **[Vecka 37](./vecka-37/)** — Variabler, villkor, logik (datalogiskt tänkande, JDK/IDE, `if`)
 - **[Vecka 38](./vecka-38/)** — Loopar, metoder, listor (`while`/`for`, metoder, ArrayList, Scanner)
 - **[Vecka 39](./vecka-39/)** — Git + klasser och objekt (`Account`)
-- **Vecka 40** — OOP, factory, arv (VG), start Exam 1
+- **[Vecka 40](./vecka-40/)** — OOP, factory, arv (VG), start Exam 1
 - **Vecka 41** — Handledning & Examination 1 (Kontoappen) — kod + muntlig/video samma vecka
 
 ### Block 2 — Git i team & Examination 2 (Medlemsregistret)
