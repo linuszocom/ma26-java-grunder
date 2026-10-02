@@ -70,6 +70,8 @@ Välj ut **2–3 metoder** i din kod och förklara dem:
 * Minst en metod i `Account.java`
 * Minst en metod i `AccountRegister.java`
 
+  🔗 [Instruktion för muntlig videoinspelning](instruktion_videoinspelning.md)
+
 ---
 
 ### Betygskriterier
