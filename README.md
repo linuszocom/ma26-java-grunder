@@ -57,7 +57,7 @@ Mapparna publiceras löpande inför varje ny vecka.
 
 ### Block 2 — Git i team & Examination 2 (Medlemsregistret)
 
-- **Vecka 42** — Gemensamt repo, tre klasser, merge
+- **[Vecka 42](./vecka-42/)** — Gemensamt repo, tre klasser, merge
 - **Vecka 43** — Register, sök, start Exam 2
 - **Vecka 44** — Handledning & Examination 2 (Medlemsregistret) — gruppens GitHub-länk i Moodle
 
