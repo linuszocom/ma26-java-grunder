@@ -63,4 +63,4 @@ Mapp: [19-exam2-start](./19-exam2-start/)
 
 ## 🏁 Nästa steg
 
-Vecka 44 = [vecka-44/](../vecka-44/) — **Exam 2 handledning** (Format E). Inga nya tekniker — färdigställ och lämna in.
+Vecka 44 = **Exam 2 handledning** 
