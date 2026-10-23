@@ -101,7 +101,7 @@ Skapa en fil med namnet `README.md` i projektets rotmapp och svara gemensamt på
 ## Inlämning & Bedömning
 
 - **Inlämning:** Klistra in länken till gruppens publika GitHub-repo i Moodle innan deadline.
-- **Ingen klassredovisning:** Ni behöver inte hålla någon presentation inför helklass. Bedömningen sker direkt mot koden, Git-historiken och er `README.md`.
+- **Ingen klassredovisning:** Ni behöver inte hålla någon presentation. Bedömningen sker direkt mot koden, Git-historiken och er `README.md`.
 - **Gemensamt och individuellt ansvar:** Alla i gruppen ansvarar gemensamt för helheten. AI och hjälpmedel är tillåtna, men varje person i gruppen måste vid eventuell stickprovsavstämning kunna redogöra för koden och hur ni har arbetat.
 
 ## Deadline
